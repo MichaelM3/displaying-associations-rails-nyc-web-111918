@@ -1,5 +1,6 @@
 # Displaying Associations Rails
 
+
 ## Objectives
 
 After this lesson, you should be able to...
